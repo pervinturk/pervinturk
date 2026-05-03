@@ -45,12 +45,12 @@ A critical focus of my work is the secure, **on-premises deployment of Local LLM
 
 Below is a curated selection of my active and completed technical projects, focusing on translating manual industrial challenges into automated optimization architectures:
 
-*   **[Predictive Quality Operating System](https://github.com/pervinturk):** Developing an autonomous Industry 4.0 pipeline utilizing cost-sensitive AutoML (XGBoost) and real-time sensor data to proactively detect anomalies and prescribe defect mitigation strategies.
+*   **[Predictive Quality Operating System](https://github.com/pervinturk](https://github.com/pervinturk/predictive-quality-os)):** Developing an autonomous Industry 4.0 pipeline utilizing cost-sensitive AutoML (XGBoost) and real-time sensor data to proactively detect anomalies and prescribe defect mitigation strategies.
 *   **[Automated Shipment Auditor](https://github.com/pervinturk):** Engineering an AI-assisted system with computer vision and data matching algorithms to autonomously audit logistical shipments, significantly reducing dispatch errors.
 *   **[Local LLM-Based Decision Support System (TÜBİTAK 2209-A)](https://github.com/pervinturk):** Architected a secure, private clinical data extraction tool using Aya-Medikal-v2 via LM Studio. Developed Python-based rule algorithms for pediatric dosage calculation. *Awarded 3rd place in the Chamber of Mechanical Engineers Graduation Projects Competition.*
-*   **[TSPPC Hybrid Solver](https://github.com/pervinturk):** Developed a Lamarckian approach using Genetic Algorithms and Simulated Annealing with 2-Opt local search for solving Precedence Constrained Traveling Salesman Problems.
-*   **[Assembly Line Balancing (COMSOAL)](https://github.com/pervinturk):** Engineered a Python-based desktop application to solve complex Assembly Line Balancing Problems utilizing the COMSOAL heuristic.
-*   **[MRP Optimization Tool](https://github.com/pervinturk):** Built a Python application integrating Material Requirements Planning (MRP) parameters with Linear Programming (LP) for optimal production scheduling.
+*   **[TSPPC Hybrid Solver](https://github.com/pervinturk](https://github.com/pervinturk/tsppc-hybrid-solver):** Developed a Lamarckian approach using Genetic Algorithms and Simulated Annealing with 2-Opt local search for solving Precedence Constrained Traveling Salesman Problems.
+*   **[Assembly Line Balancing (COMSOAL)](https://github.com/pervinturk](https://github.com/pervinturk/comsoal-line-balancing):** Engineered a Python-based desktop application to solve complex Assembly Line Balancing Problems utilizing the COMSOAL heuristic.
+*   **[MRP Optimization Tool](https://github.com/pervinturk](https://github.com/pervinturk/mrp-optimization-tool):** Built a Python application integrating Material Requirements Planning (MRP) parameters with Linear Programming (LP) for optimal production scheduling.
 
 *(Feel free to explore my pinned repositories for full access to the source code, algorithmic logic, and documentation of these architectures).*
 
