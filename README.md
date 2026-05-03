@@ -30,8 +30,8 @@ A critical focus of my work is the secure, **on-premises deployment of Local LLM
 *   **Data Visualization & BI:** MS Power BI, Advanced Excel (Dynamic Dashboards, VBA/Macros)
 
 ### 🔹 Operations Research & Mathematical Modeling
-*   **Optimization Techniques:** Linear Programming (LP), Mixed-Integer Programming (MIP), Stochastic Processes
-*   **Heuristic Algorithms:** Genetic Algorithms, Simulated Annealing, 2-Opt Local Search, COMSOAL
+*   **Optimization Techniques:** Linear Programming (LP), Mixed-Integer Programming (MIP), Constraint Programming (CP), Stochastic Processes
+*   **Heuristic Algorithms:** Genetic Algorithms, Simulated Annealing, COMSOAL
 *   **Simulation & Solvers:** Discrete-Event Simulation (ProModel), Monte Carlo Simulation, IBM ILOG CPLEX
 
 ### 🔹 Industrial Systems Engineering
