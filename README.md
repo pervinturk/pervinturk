@@ -55,7 +55,7 @@ Below is a curated selection of my active and completed technical projects, focu
 ### 🔒 Private Deployments & Active Research
 *   **AI Inventory & Demand Optimizer** *[Active Development]*: Developing a web application tailored for automated stock control and hybrid machine learning-based demand forecasting.
 *   **Stochastic Digital Twin** *[Active Development]*: Engineering a scheduling framework integrating Factory Physics (VUT) equations and Monte Carlo simulation to assess lead-time variability under machine failure scenarios.
-*   *   **Automated Shipment Auditor** *[Active Development]*: Building an AI-assisted system with computer vision and data matching algorithms to autonomously audit logistical shipments, significantly reducing dispatch errors.
+*   **Automated Shipment Auditor** *[Active Development]*: Building an AI-assisted system with computer vision and data matching algorithms to autonomously audit logistical shipments, significantly reducing dispatch errors.
 *   **Local LLM-Based Decision Support System (TÜBİTAK 2209-A)** *[Private Repository - Clinical Data Privacy]*: Architected a secure, private clinical data extraction tool using Aya-Medikal-v2 via LM Studio to automate patient history summaries. *Awarded 3rd place in the Chamber of Mechanical Engineers Graduation Projects Competition.*
 *   **Drug Interaction Detection & Dosage Calculation Application** *[Private Deployment]*: Engineered a standalone algorithmic application designed to accurately calculate pediatric dosages and cross-reference pharmaceutical interactions.
 
