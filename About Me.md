@@ -7,6 +7,7 @@ I am an **Industrial Engineer** (B.Sc. GPA: 3.18/4.00) and an **M.Sc. candidate*
 
 I approach industrial challenges through a rigorous systems engineering perspective. To maintain an agile development lifecycle, I actively utilize **AI-Pair Programming** and prompt engineering.
 A critical focus of my work is the **secure**, by engineering private data extraction pipelines and deploying autonomous systems locally, I ensure absolute data privacy and governance while automating complex clinical and industrial decision-making.
+
 ---
 ## 🛠️ Technical Framework & Competencies
 *   **AI-Assisted Development & Data Science:** Python, SQL, Local LLM Deployment (LM Studio, Ollama), Machine Learning Pipelines (XGBoost), Advanced Prompt Engineering, MS Power BI
