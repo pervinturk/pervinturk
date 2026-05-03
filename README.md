@@ -1,9 +1,7 @@
 # Pervin Türk
 **Industrial Engineer & M.Sc. Candidate | AI-Assisted System Developer | Operations Research**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/pervinturk)
-[![Linktree](https://img.shields.io/badge/Linktree-Portfolio-success?logo=linktree)](https://linktr.ee/pervinturk)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailto:pervintyurk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](https://linktr.ee/pervinturk)
 
 ---
 
