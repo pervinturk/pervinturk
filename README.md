@@ -44,14 +44,20 @@ A critical focus of my work is the secure, **on-premises deployment of Local LLM
 
 Below is a curated selection of my active and completed technical projects, focusing on translating manual industrial challenges into automated optimization architectures:
 
-*   **[Predictive Quality Operating System](https://github.com/pervinturk/predictive-quality-os):** Developing an autonomous Industry 4.0 pipeline utilizing cost-sensitive AutoML (XGBoost) and real-time sensor data to proactively detect anomalies and prescribe defect mitigation strategies.
-*   **Automated Shipment Auditor** *[Active Development]*: Engineering an AI-assisted system with computer vision and data matching algorithms to autonomously audit logistical shipments, significantly reducing dispatch errors.
-*   **Local LLM-Based Decision Support System (TÜBİTAK 2209-A)** *[Private Repository - Clinical Data Privacy]*: Architected a secure, private clinical data extraction tool using Aya-Medikal-v2 via LM Studio. Developed Python-based rule algorithms for pediatric dosage calculation. *Awarded 3rd place in the Chamber of Mechanical Engineers Graduation Projects Competition.*
-*   **[TSPPC Hybrid Solver](https://github.com/pervinturk/tsppc-hybrid-solver):** Developed a Lamarckian approach using Genetic Algorithms and Simulated Annealing with 2-Opt local search for solving Precedence Constrained Traveling Salesman Problems.
+### 📂 Open-Source Architectures & Algorithms
+*   **[Predictive Quality Operating System](https://github.com/pervinturk/predictive-quality-os):** Developing an autonomous Industry 4.0 pipeline utilizing cost-sensitive AutoML (XGBoost) and real-time sensor data to proactively detect anomalies and mitigate manufacturing defects.
+*   **[TSPPC Hybrid Solver](https://github.com/pervinturk/tsppc-hybrid-solver):** Developed a Lamarckian optimization approach using Genetic Algorithms and Simulated Annealing with 2-Opt local search for solving Precedence Constrained Traveling Salesman Problems.
 *   **[Assembly Line Balancing (COMSOAL)](https://github.com/pervinturk/comsoal-line-balancing):** Engineered a Python-based desktop application to solve complex Assembly Line Balancing Problems utilizing the COMSOAL heuristic.
-*   **[MRP Optimization Tool](https://github.com/pervinturk/mrp-optimization-tool):** Built a Python application integrating Material Requirements Planning (MRP) parameters with Linear Programming (LP) for optimal production scheduling.
+*   **[MRP Optimization Tool](https://github.com/pervinturk/mrp-optimization-tool):** Built a Python application integrating Material Requirements Planning (MRP) parameters with Linear Programming (LP) to achieve optimal production scheduling.
 
 *(Feel free to explore my pinned repositories for full access to the source code, algorithmic logic, and documentation of these architectures).*
+
+### 🔒 Private Deployments & Active Research
+*   **AI Inventory & Demand Optimizer** *[Active Development]*: Developing a web application tailored for automated stock control and hybrid machine learning-based demand forecasting.
+*   **Stochastic Digital Twin** *[Active Development]*: Engineering a scheduling framework integrating Factory Physics (VUT) equations and Monte Carlo simulation to assess lead-time variability under machine failure scenarios.
+*   *   **Automated Shipment Auditor** *[Active Development]*: Building an AI-assisted system with computer vision and data matching algorithms to autonomously audit logistical shipments, significantly reducing dispatch errors.
+*   **Local LLM-Based Decision Support System (TÜBİTAK 2209-A)** *[Private Repository - Clinical Data Privacy]*: Architected a secure, private clinical data extraction tool using Aya-Medikal-v2 via LM Studio to automate patient history summaries. *Awarded 3rd place in the Chamber of Mechanical Engineers Graduation Projects Competition.*
+*   **Drug Interaction Detection & Dosage Calculation Application** *[Private Deployment]*: Engineered a standalone algorithmic application designed to accurately calculate pediatric dosages and cross-reference pharmaceutical interactions.
 
 ---
 
