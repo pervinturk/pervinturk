@@ -16,12 +16,12 @@ A critical focus of my work is the **secure**, by engineering private data extra
 ---
 ## 🚀 Key Engineering Projects
 Below is a curated selection of my active and completed technical projects, focusing on translating manual industrial challenges into automated optimization architectures:
-
 ### 📂 Open-Source Architectures & Algorithms
 *   **[Predictive Quality Operating System](https://github.com/pervinturk/predictive-quality-os):** Developing an autonomous Industry 4.0 pipeline utilizing cost-sensitive AutoML (XGBoost) and real-time sensor data to proactively detect anomalies and mitigate manufacturing defects.
 *   **[MRP Optimization Tool](https://github.com/pervinturk/mrp-optimization-tool):** Built a Python application integrating Material Requirements Planning (MRP) parameters with Linear Programming (LP) to achieve optimal production scheduling.
 *   **[TSPPC Hybrid Solver](https://github.com/pervinturk/tsppc-hybrid-solver):** Developed a Lamarckian optimization approach using Genetic Algorithms and Simulated Annealing with 2-Opt local search for solving Precedence Constrained Traveling Salesman Problems.
 *   **[Assembly Line Balancing (COMSOAL)](https://github.com/pervinturk/comsoal-line-balancing):** Engineered a Python-based desktop application to solve complex Assembly Line Balancing Problems utilizing the COMSOAL heuristic.
+  
 *(Feel free to explore my pinned repositories for full access to the source code, algorithmic logic, and documentation of these architectures).*
 
 ### 🔒 Private Deployments & Active Research
