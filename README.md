@@ -2,55 +2,60 @@
 **Industrial Engineer & M.Sc. Candidate | AI-Assisted System Developer | Operations Research**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/pervinturk)
+[![Linktree](https://img.shields.io/badge/Linktree-Portfolio-success?logo=linktree)](https://linktr.ee/pervinturk)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?logo=gmail)](mailto:pervintyurk@gmail.com)
 
 ---
 
-## 🎯 About Me
+## 🎯 Professional Summary
 
-I am an Industrial Engineer (B.Sc. GPA: 3.18/4.00) and an M.Sc. candidate at Bursa Uludağ University[cite: 2]. My professional objective is to bridge the gap between data-driven algorithms and physical shop-floor constraints to drive measurable productivity improvements[cite: 2]. I specialize in applying theoretical models that combine my strong engineering background with Artificial Intelligence and Data Science[cite: 2]. 
+I am an Industrial Engineer (B.Sc. GPA: 3.18/4.00) and an M.Sc. candidate at Bursa Uludağ University. My core expertise lies at the intersection of **Data Science, Artificial Intelligence, and Operations Research**. I specialize in developing autonomous Decision Support Systems (DSS) and mathematical models to optimize stochastic manufacturing processes and resolve complex operational bottlenecks.
 
-I am a versatile, detail-oriented, and solution-driven engineer[cite: 2]. I view complex problems not as obstacles, but as learning opportunities to actively optimize systems[cite: 2].
+With a highly detail-oriented and analytical mindset, my professional objective is to bridge the gap between advanced predictive algorithms and physical shop-floor constraints, driving measurable productivity, lean efficiency, and operational excellence.
 
 ---
 
-## 🧠 My Development Philosophy: AI-Pair Programming
+## 🧠 Development Philosophy: AI-Pair Programming
 
-I treat Artificial Intelligence as a strategic framework to optimize workflows and manage stochastic manufacturing processes[cite: 2]. I develop my projects through **AI-pair programming**[cite: 2]. This modern collaboration allows me to focus my cognitive effort on system architecture, process logic, and problem-solving, rather than manual syntax[cite: 2]. 
+I approach industrial challenges through a rigorous systems engineering perspective. To maintain an agile development lifecycle, I actively utilize **AI-Pair Programming** and prompt engineering. This modern architectural collaboration allows me to focus my cognitive effort on system logic, algorithm design, and heuristic problem-solving rather than manual syntax generation.
 
-To maintain development agility, I leverage AI-assisted coding for rapid prototyping and building robust end-to-end applications[cite: 2]. A core focus of my work is the secure, **on-premises deployment of Local LLMs** to ensure absolute data privacy while automating complex decision-making and data extraction[cite: 2].
+A critical focus of my work is the secure, **on-premises deployment of Local LLMs** (Large Language Models). By engineering private data extraction pipelines and deploying autonomous systems locally, I ensure absolute data privacy and governance while automating complex clinical and industrial decision-making.
 
 ---
 
 ## 🛠️ Technical Framework & Competencies
 
-### 🔹 Digital Systems & Machine Learning
-*   **Languages & Tools:** Python, SQL (MySQL), Visual Basic, MATLAB, MS Access[cite: 2]
-*   **AI Deployment:** Advanced Prompt Engineering, LM Studio, Anything LLM, Ollama[cite: 2]
-*   **Data Architecture:** Machine Learning Pipelines, AI Recommendation Systems, Database Management, Data Visualization (Power BI, Advanced Excel Dashboards/VBA)[cite: 2]
+### 🔹 Digital Systems & Advanced Analytics
+*   **Languages & Environments:** Python, SQL (MySQL), Visual Basic, MATLAB, MS Access
+*   **AI & LLM Deployment:** Advanced Prompt Engineering, LM Studio, Anything LLM, Ollama
+*   **Data Architecture:** Machine Learning Pipelines (AutoML, XGBoost), AI Recommendation Systems, Database Management (ER Schema Design)
+*   **Data Visualization & BI:** MS Power BI, Advanced Excel (Dynamic Dashboards, VBA/Macros)
 
-### 🔹 Operations Research & Optimization
-*   Mathematical Modeling, Stochastic Processes, Heuristic Algorithms[cite: 2]
-*   **Optimization Solvers:** IBM ILOG CPLEX, Systems Simulation (ProModel)[cite: 2]
+### 🔹 Operations Research & Mathematical Modeling
+*   **Optimization Techniques:** Linear Programming (LP), Mixed-Integer Programming (MIP), Stochastic Processes
+*   **Heuristic Algorithms:** Genetic Algorithms, Simulated Annealing, 2-Opt Local Search, COMSOAL
+*   **Simulation & Solvers:** Discrete-Event Simulation (ProModel), Monte Carlo Simulation, IBM ILOG CPLEX
 
 ### 🔹 Industrial Systems Engineering
-*   Systems Analysis, Production Planning (MRP), Lean Production, Root Cause Analysis (Fishbone), Value Stream Mapping[cite: 2]
-*   Supply Chain Management, Inventory Optimization (ABC Classification), OEE Tracking[cite: 2]
+*   **Process Optimization:** Systems Analysis, Material Requirements Planning (MRP), Assembly Line Balancing, Capacity Planning
+*   **Lean & Quality Management:** Root Cause Analysis (Fishbone/RCA), Value Stream Mapping (VSM), ABC Inventory Classification, Overall Equipment Effectiveness (OEE) Tracking
+*   **Design & Drafting:** AutoCAD, Facility Layout Block Planning
 
 ---
 
 ## 🚀 Key Engineering Projects
 
-Here are a few highlights from my repository focusing on translating manual industrial challenges into automated optimization models[cite: 2]:
+Below is a curated selection of my active and completed technical projects, focusing on translating manual industrial challenges into automated optimization architectures:
 
-*   **[Automated Shipment Auditor](https://github.com/pervinturk/predictive-quality-os):** Building an AI-assisted system to autonomously audit shipment accuracy and reduce logistical errors[cite: 2].
-*   **[Predictive Quality Operating System](https://github.com/pervinturk/predictive-quality-os):** Developing a machine learning pipeline utilizing XGBoost and real-time sensor data to proactively predict and mitigate manufacturing defects[cite: 2].
-*   **[Local LLM-Based Patient Summarization System (TÜBİTAK 2209-A) ](https://github.com/pervinturk/predictive-quality-os):** Engineered a private clinical data extraction tool using Aya-Medikal-v2 via LM Studio to automate patient history summaries. This project was awarded 3rd place in the Chamber of Mechanical Engineers Graduation Projects Competition[cite: 2].
-*   **[Assembly Line Balancing (COMSOAL)](https://github.com/pervinturk/comsoal-line-balancing):** Developed a Python-based desktop application solving the Assembly Line Balancing Problem using the COMSOAL heuristic[cite: 2].
-*   **[MRP Optimization Tool](https://github.com/pervinturk/mrp-optimization-tool):** Created a Python application for Material Requirements Planning and Linear Programming (LP) based production optimization[cite: 2].
+*   **[Predictive Quality Operating System](https://github.com/pervinturk):** Developing an autonomous Industry 4.0 pipeline utilizing cost-sensitive AutoML (XGBoost) and real-time sensor data to proactively detect anomalies and prescribe defect mitigation strategies.
+*   **[Automated Shipment Auditor](https://github.com/pervinturk):** Engineering an AI-assisted system with computer vision and data matching algorithms to autonomously audit logistical shipments, significantly reducing dispatch errors.
+*   **[Local LLM-Based Decision Support System (TÜBİTAK 2209-A)](https://github.com/pervinturk):** Architected a secure, private clinical data extraction tool using Aya-Medikal-v2 via LM Studio. Developed Python-based rule algorithms for pediatric dosage calculation. *Awarded 3rd place in the Chamber of Mechanical Engineers Graduation Projects Competition.*
+*   **[TSPPC Hybrid Solver](https://github.com/pervinturk):** Developed a Lamarckian approach using Genetic Algorithms and Simulated Annealing with 2-Opt local search for solving Precedence Constrained Traveling Salesman Problems.
+*   **[Assembly Line Balancing (COMSOAL)](https://github.com/pervinturk):** Engineered a Python-based desktop application to solve complex Assembly Line Balancing Problems utilizing the COMSOAL heuristic.
+*   **[MRP Optimization Tool](https://github.com/pervinturk):** Built a Python application integrating Material Requirements Planning (MRP) parameters with Linear Programming (LP) for optimal production scheduling.
 
-*(Note: Explore my pinned repositories for full access to the source code and documentation of these projects).*
+*(Feel free to explore my pinned repositories for full access to the source code, algorithmic logic, and documentation of these architectures).*
 
 ---
 
-*"Engineering is not just about writing code; it's about architecting solutions that survive the stochastic nature of reality."*
+> *"Engineering is not just about writing code; it's about architecting deterministic solutions that survive the stochastic nature of reality."*
