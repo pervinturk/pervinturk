@@ -1,4 +1,4 @@
-# Pervin Türk - **Industrial Engineer & M.Sc. Candidate | AI-Assisted System Developer**
+**Industrial Engineer & M.Sc. Candidate | AI-Assisted System Developer**
 
 **[![Linktree](https://img.shields.io/badge/Linktree-Contact_Me-success?logo=linktree)](https://linktr.ee/pervinturk)**
 ---
