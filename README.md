@@ -1,4 +1,4 @@
-## 🎯 Welcome to My Engineering Workspace
+## ⚙️ Welcome to My World
 ## **[![Linktree](https://img.shields.io/badge/Linktree-Contact_Me-success?logo=linktree)](https://linktr.ee/pervinturk)**
 I am an **Industrial Engineer** (B.Sc. GPA: 3.18/4.00) and an **M.Sc. candidate** at Bursa Uludağ University. My core expertise lies at the intersection of **Data Science, Artificial Intelligence, and Operations Research**. With a highly detail-oriented and analytical mindset, my professional objective is to bridge the gap between advanced predictive algorithms and physical shop-floor constraints, driving measurable productivity, lean efficiency, and operational excellence.
 
@@ -13,7 +13,7 @@ A critical focus of my work is the **secure**, by engineering private data extra
 ---
 ## 🚀 Key Engineering Projects
 Below is a curated selection of my active and completed technical projects, focusing on translating manual industrial challenges into automated optimization architectures:
-### 📂 Open-Source Architectures & Algorithms
+### 🌐 Open-Source Architectures & Algorithms
 *   **[Predictive Quality Operating System](https://github.com/pervinturk/predictive-quality-os):** Developing an autonomous Industry 4.0 pipeline utilizing cost-sensitive AutoML (XGBoost) and real-time sensor data to proactively detect anomalies and mitigate manufacturing defects.
 *   **[MRP Optimization Tool](https://github.com/pervinturk/mrp-optimization-tool):** Built a Python application integrating Material Requirements Planning (MRP) parameters with Linear Programming (LP) to achieve optimal production scheduling.
 *   **[TSPPC Hybrid Solver](https://github.com/pervinturk/tsppc-hybrid-solver):** Developed a Lamarckian optimization approach using Genetic Algorithms and Simulated Annealing with 2-Opt local search for solving Precedence Constrained Traveling Salesman Problems.
@@ -21,7 +21,7 @@ Below is a curated selection of my active and completed technical projects, focu
   
 *(Feel free to explore my pinned repositories for full access to the source code, algorithmic logic, and documentation of these architectures).*
 
-### 🔒 Private Deployments & Active Research
+### 🛡️ Private Deployments & Active Research
 *   **AI Inventory & Demand Optimizer** *[Active Development]*: Co-developing a web application tailored for automated stock control and hybrid machine learning-based demand forecasting.
 *   **Stochastic Digital Twin** *[Active Development]*: Co-engineering a scheduling framework integrating Factory Physics (VUT) equations and Monte Carlo simulation to assess lead-time variability under machine failure scenarios.
 *   **Automated Shipment Auditor** *[Active Development]*: Building an AI-assisted system with computer vision and data matching algorithms to autonomously audit logistical shipments, significantly reducing dispatch errors.
